@@ -2,9 +2,9 @@
 
 <div align="center">
 
-**Department of Graduate Computer Science and Engineering (CSE)**
+**[Department of Graduate Computer Science and Engineering (CSE)](https://www.yu.edu/katz/computer-science-engineering)**
 
-**[M.S. in Artificial Intelligence](https://www.yu.edu/katz/computer-science-engineering)**
+**[M.S. in Artificial Intelligence](https://www.yu.edu/katz/ai)**
 
 </div>
 
