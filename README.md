@@ -2,9 +2,9 @@
 
 <div align="center">
 
-**Selected coursework from M.S. in Artificial Intelligence (Yeshiva University)**
+**Department of Graduate Computer Science and Engineering (CSE)**
 
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]
+**[M.S. in Artificial Intelligence](https://www.yu.edu/katz/computer-science-engineering)**
 
 </div>
 
